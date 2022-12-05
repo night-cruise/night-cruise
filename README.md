@@ -5,7 +5,7 @@
 * I'm a college student.
 * I use rust, python, go and c programming languages. My favorite programming language is rust.
 * I like anime, programming and Japanese music. My favorite bands are honeydip and fishmans.
-* I also like game
+* I also like game and my favorite game is Don't Starve.
 
 #### Find me👀
 
@@ -13,4 +13,4 @@
 * Github: <https://github.com/night-cruise>
 * Email: <2586447362@qq.com>
 
-![Night Cruising's GitHub stats](https://github-readme-stats.vercel.app/api?username=night-cruise&count_private=true&show_icons=true)
+![Night Cruising's GitHub stats](https://github-readme-stats.vercel.app/api?username=night-cruise&show_icons=true&count_private=true)
