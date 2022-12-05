@@ -7,8 +7,6 @@
 * I like anime, programming and Japanese music. My favorite bands are honeydip and fishmans.
 * I also like game
 
---------------
-
 #### Find me👀
 
 * Blog: <https://night-cruise.github.io>
