@@ -13,4 +13,4 @@
 * Github: <https://github.com/night-cruise>
 * Email: <2586447362@qq.com>
 
-![Night Cruising's GitHub stats](https://github-readme-stats.vercel.app/api?username=night-cruise&show_icons=true&count_private=true)
+![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=night-cruise&show_icons=true&count_private=true)
