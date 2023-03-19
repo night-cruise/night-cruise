@@ -4,8 +4,8 @@
 
 * I'm a college student.
 * I use rust, python, go and c programming languages. My favorite programming language is rust.
+* I am interested in concurrent programming, distributed system, database system, web development and funny tools.
 * I like anime, programming and Japanese music. My favorite bands are [honeydip](https://www.last.fm/zh/music/honeydip) and [fishmans](https://www.last.fm/zh/music/Fishmans).
-* I also like game and my favorite game is [Don't Starve](https://www.klei.com/games/dont-starve).
 
 #### Find me👀
 
