@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Night Cruising</h2>
 
+![:name](https://count.getloli.com/get/@:night-cruise?theme=rule34)
+
 #### About me✨ 
 
 * I'm a college student.
