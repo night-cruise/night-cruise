@@ -4,14 +4,11 @@
 
 #### About me✨ 
 
-* ~~I'm a college student.~~
 * I use rust, python, go and c programming languages. My favorite programming language is rust.
-* I am interested in concurrent programming, distributed system, database system, web development, blockchain, and funny tools.
 * I like anime, programming and Japanese music. My favorite bands are [honeydip](https://www.last.fm/zh/music/honeydip) and [fishmans](https://www.last.fm/zh/music/Fishmans).
 
 #### Find me👀
 
-* Blog: <https://night-cruise.github.io>
 * Github: <https://github.com/night-cruise>
 * Email: <2586447362@qq.com>
 
