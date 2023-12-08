@@ -15,4 +15,6 @@
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=night-cruise&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=night-cruise&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 
-> 已被优化，很有空
+--------
+
+<h3>已被优化，很闲</h3>
