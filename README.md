@@ -4,8 +4,8 @@
 
 #### About me✨ 
 
-* I use rust, python, go and c programming languages. My favorite programming language is rust.
-* I like anime, programming and Japanese music. My favorite bands are [honeydip](https://www.last.fm/zh/music/honeydip) and [fishmans](https://www.last.fm/zh/music/Fishmans).
+* I use rust, python, go and c programming languages.
+* I like anime, programming and Japanese music. My favorite bands are Honeydip, Fishmans, Number Girls and Tokyo Shoegaze.
 
 #### Find me👀
 
@@ -14,3 +14,5 @@
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=night-cruise&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=night-cruise&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
+
+> 已失业，现在很闲
