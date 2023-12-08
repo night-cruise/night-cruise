@@ -5,7 +5,7 @@
 #### About me✨ 
 
 * I use rust, python, go and c programming languages.
-* I like anime, programming and Japanese music. My favorite bands are Honeydip, Fishmans, Number Girls and Tokyo Shoegaze.
+* I like anime, programming and Japanese music. My favorite bands are Honeydip, Fishmans, Number Girl and Tokyo Shoegazer.
 
 #### Find me👀
 
@@ -17,4 +17,4 @@
 
 --------
 
-<h3>已被优化，很闲</h3>
+<h2>已被优化，很闲</h2>
