@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Night Cruising</h2>
 
-![:name](https://count.getloli.com/get/@:night-cruise?theme=rule34)
-
 #### Find me👀
 
 * Github: <https://github.com/night-cruise>
